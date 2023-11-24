@@ -1,0 +1,4 @@
+C:\Users\yoha06001\source\repos\Olympiaden, fråga 4._1\obj\Debug\net6.0\Olympiaden, fråga 4._1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yoha06001\source\repos\Olympiaden, fråga 4._1\obj\Debug\net6.0\Olympiaden, fråga 4._1.AssemblyInfoInputs.cache
+C:\Users\yoha06001\source\repos\Olympiaden, fråga 4._1\obj\Debug\net6.0\Olympiaden, fråga 4._1.AssemblyInfo.cs
+C:\Users\yoha06001\source\repos\Olympiaden, fråga 4._1\obj\Debug\net6.0\Olympiaden, fråga 4._1.csproj.CoreCompileInputs.cache
