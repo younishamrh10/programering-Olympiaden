@@ -1,0 +1,14 @@
+C:\Users\yoha06001\source\repos\Olympiaden, fråga 2\bin\Debug\net6.0\Olympiaden, fråga 2.exe
+C:\Users\yoha06001\source\repos\Olympiaden, fråga 2\bin\Debug\net6.0\Olympiaden, fråga 2.deps.json
+C:\Users\yoha06001\source\repos\Olympiaden, fråga 2\bin\Debug\net6.0\Olympiaden, fråga 2.runtimeconfig.json
+C:\Users\yoha06001\source\repos\Olympiaden, fråga 2\bin\Debug\net6.0\Olympiaden, fråga 2.dll
+C:\Users\yoha06001\source\repos\Olympiaden, fråga 2\bin\Debug\net6.0\Olympiaden, fråga 2.pdb
+C:\Users\yoha06001\source\repos\Olympiaden, fråga 2\obj\Debug\net6.0\Olympiaden, fråga 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yoha06001\source\repos\Olympiaden, fråga 2\obj\Debug\net6.0\Olympiaden, fråga 2.AssemblyInfoInputs.cache
+C:\Users\yoha06001\source\repos\Olympiaden, fråga 2\obj\Debug\net6.0\Olympiaden, fråga 2.AssemblyInfo.cs
+C:\Users\yoha06001\source\repos\Olympiaden, fråga 2\obj\Debug\net6.0\Olympiaden, fråga 2.csproj.CoreCompileInputs.cache
+C:\Users\yoha06001\source\repos\Olympiaden, fråga 2\obj\Debug\net6.0\Olympiaden, fråga 2.dll
+C:\Users\yoha06001\source\repos\Olympiaden, fråga 2\obj\Debug\net6.0\refint\Olympiaden, fråga 2.dll
+C:\Users\yoha06001\source\repos\Olympiaden, fråga 2\obj\Debug\net6.0\Olympiaden, fråga 2.pdb
+C:\Users\yoha06001\source\repos\Olympiaden, fråga 2\obj\Debug\net6.0\Olympiaden, fråga 2.genruntimeconfig.cache
+C:\Users\yoha06001\source\repos\Olympiaden, fråga 2\obj\Debug\net6.0\ref\Olympiaden, fråga 2.dll

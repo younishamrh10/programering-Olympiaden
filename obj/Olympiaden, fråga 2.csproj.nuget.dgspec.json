@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\yoha06001\\Documents\\GitHub\\programering-Olympiaden\\Olympiaden, fråga 1\\Olympiaden, fråga 1.csproj": {}
+    "C:\\Users\\yoha06001\\Documents\\GitHub\\programering-Olympiaden\\Olympiaden, fråga 2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\yoha06001\\Documents\\GitHub\\programering-Olympiaden\\Olympiaden, fråga 1\\Olympiaden, fråga 1.csproj": {
+    "C:\\Users\\yoha06001\\Documents\\GitHub\\programering-Olympiaden\\Olympiaden, fråga 2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yoha06001\\Documents\\GitHub\\programering-Olympiaden\\Olympiaden, fråga 1\\Olympiaden, fråga 1.csproj",
-        "projectName": "Olympiaden, fråga 1",
-        "projectPath": "C:\\Users\\yoha06001\\Documents\\GitHub\\programering-Olympiaden\\Olympiaden, fråga 1\\Olympiaden, fråga 1.csproj",
+        "projectUniqueName": "C:\\Users\\yoha06001\\Documents\\GitHub\\programering-Olympiaden\\Olympiaden, fråga 2.csproj",
+        "projectName": "Olympiaden, fråga 2",
+        "projectPath": "C:\\Users\\yoha06001\\Documents\\GitHub\\programering-Olympiaden\\Olympiaden, fråga 2.csproj",
         "packagesPath": "C:\\Users\\yoha06001\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yoha06001\\Documents\\GitHub\\programering-Olympiaden\\Olympiaden, fråga 1\\obj\\",
+        "outputPath": "C:\\Users\\yoha06001\\Documents\\GitHub\\programering-Olympiaden\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\yoha06001\\AppData\\Roaming\\NuGet\\NuGet.Config",
